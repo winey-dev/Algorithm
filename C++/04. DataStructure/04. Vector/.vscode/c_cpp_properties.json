@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "C:\\mingw64\\x86_64-w64-mingw32\\include",
+                    "${workspaceRoot}"
+                ]
+            },
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:\\mingw64\\bin\\g++.exe"
+        }
+    ],
+    "version": 4
+}
