@@ -45,3 +45,7 @@
 ~~~
 ------
 > https://www.acmicpc.net/problem/1600
+
+
+# 문제 풀이 정리 
+BFS 너비 우선 탐색으로 풀기 
