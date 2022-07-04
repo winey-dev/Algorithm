@@ -16,6 +16,5 @@ int main() {
     for (i=0 ; i < str2.length(); i ++) {
         cout << str2[i] << endl;
     }
-
     
 }
